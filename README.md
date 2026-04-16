@@ -1,19 +1,43 @@
-<h1 align="center">Hi 👋, I'm Marcel Jogido</h1>
-<h3 align="center">Currently working with EO, but I love learn new thing in programming such as Javascript, Laravel, Python</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marceljogido&label=Profile%20views&color=0e75b6&style=flat" alt="marceljogido" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marceljogido" alt="marceljogido" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Hi 👋, I'm Marcel Jogido
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&width=435&lines=Fullstack+Developer;AI+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 💫 About Me
+Saya adalah seorang mahasiswa Teknik Komputer yang memiliki pengalaman di bidang **Technical Support & Logistics** dalam industri Event Organizer. Saya sangat antusias dalam membangun solusi digital, mulai dari aplikasi web hingga integrasi AI.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceljogido&show_icons=true&locale=en&layout=compact" alt="marceljogido" /></p>
+- 🎓 **Fokus Saat Ini:** Menyelesaikan penelitian mengenai *Multimodal Adaptive Prompting* (YOLOv8 & Voice Recognition).
+- 💼 **Pengalaman:** Aktif sebagai Technical Support & Logistics di industri EO/Digital Open House.
+- 🚀 **Misi:** Menggabungkan logika engineering dengan efisiensi operasional.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marceljogido&show_icons=true&locale=en" alt="marceljogido" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceljogido&" alt="marceljogido" /></p>
+### 🛠️ Core Tech Stack
+Untuk proyek-proyek saya, saya mengutamakan ekosistem berikut:
+
+| Category | Tools |
+| :--- | :--- |
+| **Backend & Logic** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Database & Ops** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marceljogido&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="marceljogido" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marceljogido&show_icons=true&locale=en&theme=tokyonight" alt="marceljogido" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceljogido&theme=tokyonight" alt="marceljogido" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/marceljogido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marceljogido" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marceljogido&label=Profile%20views&color=0e75b6&style=flat" alt="marceljogido" /> </p>
