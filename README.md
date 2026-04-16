@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marceljogido&theme=tokyonight&no-frame=true" alt="marceljogido trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?marceljogido=marceljogido&theme=tokyonight&no-frame=true" alt="marceljogido trophies" />
 </p>
 
 ---
