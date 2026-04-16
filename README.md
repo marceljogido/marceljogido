@@ -15,15 +15,15 @@ Saya adalah mahasiswa Teknik Komputer yang bergerak di persimpangan antara **Sof
 ---
 
 ### 🎡 Event Tech Showcase (Field-Tested)
-Kebutuhan klien event selalu unik dengan waktu mepet. Saya mengembangkan sistem yang modular dan siap pakai untuk memberikan "Wow Factor":
+Saya mengembangkan sistem modular untuk memberikan "Wow Factor" pada event skala besar:
 
-* **📸 AI Photobooth (Photo & Video):** Transformasi visual real-time menggunakan Gemini API & Veo untuk pengalaman pengunjung yang futuristik dan interaktif.
-* **🎰 Digital Spinwheel & Raffle:** Sistem undian dengan dashboard admin dinamis untuk mengatur probabilitas hadiah secara instan di lokasi acara.
+* **📸 AI Photobooth (Photo & Video):** Transformasi visual real-time menggunakan Gemini API & Veo untuk pengalaman pengunjung yang futuristik.
+* **🎰 Digital Spinwheel & Raffle:** Sistem undian dengan dashboard admin dinamis untuk mengatur probabilitas hadiah secara instan.
 * **💻 Integrated Event Dashboard:** Platform monitoring data registrasi dan interaksi pengunjung secara real-time.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -34,16 +34,16 @@ Kebutuhan klien event selalu unik dengan waktu mepet. Saya mengembangkan sistem 
 
 ---
 
-### 📈 GitHub Statistics
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marceljogido&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceljogido&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marceljogido&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceljogido&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/marceljogido" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.svg" height="40" width="40" alt="linkedin" /></a>
-<a href="mailto:emailkamu@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.svg" height="40" width="40" alt="gmail" /></a>
+<a href="https://linkedin.com/in/marceljogido" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:marceljogido@example.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
